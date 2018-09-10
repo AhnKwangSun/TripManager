@@ -1,0 +1,254 @@
+[
+    {
+        "outputFile": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kk-rKZ\\values-kk-rKZ.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 60,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "C:\\Users\\JSilver\\.android\\build-cache\\706eb4b8046139eefefcf219200fa73750774aef\\output\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 60,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 65,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "C:\\Users\\JSilver\\.android\\build-cache\\706eb4b8046139eefefcf219200fa73750774aef\\output\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 65,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 106,
+                    "endOffset": 334
+                },
+                "from": {
+                    "file": "C:\\Users\\JSilver\\.android\\build-cache\\706eb4b8046139eefefcf219200fa73750774aef\\output\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 106,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 339,
+                    "endColumn": 111,
+                    "endOffset": 446
+                },
+                "from": {
+                    "file": "C:\\Users\\JSilver\\.android\\build-cache\\706eb4b8046139eefefcf219200fa73750774aef\\output\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 339,
+                        "endColumn": 111,
+                        "endOffset": 446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 451,
+                    "endColumn": 83,
+                    "endOffset": 530
+                },
+                "from": {
+                    "file": "C:\\Users\\JSilver\\.android\\build-cache\\706eb4b8046139eefefcf219200fa73750774aef\\output\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 451,
+                        "endColumn": 83,
+                        "endOffset": 530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 535,
+                    "endColumn": 118,
+                    "endOffset": 649
+                },
+                "from": {
+                    "file": "C:\\Users\\JSilver\\.android\\build-cache\\706eb4b8046139eefefcf219200fa73750774aef\\output\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 535,
+                        "endColumn": 118,
+                        "endOffset": 649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 654,
+                    "endColumn": 118,
+                    "endOffset": 768
+                },
+                "from": {
+                    "file": "C:\\Users\\JSilver\\.android\\build-cache\\706eb4b8046139eefefcf219200fa73750774aef\\output\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 654,
+                        "endColumn": 118,
+                        "endOffset": 768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 773,
+                    "endColumn": 120,
+                    "endOffset": 889
+                },
+                "from": {
+                    "file": "C:\\Users\\JSilver\\.android\\build-cache\\706eb4b8046139eefefcf219200fa73750774aef\\output\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 773,
+                        "endColumn": 120,
+                        "endOffset": 889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 894,
+                    "endColumn": 93,
+                    "endOffset": 983
+                },
+                "from": {
+                    "file": "C:\\Users\\JSilver\\.android\\build-cache\\706eb4b8046139eefefcf219200fa73750774aef\\output\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 894,
+                        "endColumn": 93,
+                        "endOffset": 983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 988,
+                    "endColumn": 88,
+                    "endOffset": 1072
+                },
+                "from": {
+                    "file": "C:\\Users\\JSilver\\.android\\build-cache\\706eb4b8046139eefefcf219200fa73750774aef\\output\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 988,
+                        "endColumn": 88,
+                        "endOffset": 1072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1077,
+                    "endColumn": 90,
+                    "endOffset": 1163
+                },
+                "from": {
+                    "file": "C:\\Users\\JSilver\\.android\\build-cache\\706eb4b8046139eefefcf219200fa73750774aef\\output\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1077,
+                        "endColumn": 90,
+                        "endOffset": 1163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1168,
+                    "endColumn": 85,
+                    "endOffset": 1249
+                },
+                "from": {
+                    "file": "C:\\Users\\JSilver\\.android\\build-cache\\706eb4b8046139eefefcf219200fa73750774aef\\output\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1168,
+                        "endColumn": 85,
+                        "endOffset": 1249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1254,
+                    "endColumn": 100,
+                    "endOffset": 1350
+                },
+                "from": {
+                    "file": "C:\\Users\\JSilver\\.android\\build-cache\\706eb4b8046139eefefcf219200fa73750774aef\\output\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1254,
+                        "endColumn": 100,
+                        "endOffset": 1350
+                    }
+                }
+            }
+        ]
+    }
+]

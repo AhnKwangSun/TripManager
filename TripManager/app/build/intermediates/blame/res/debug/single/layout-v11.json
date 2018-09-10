@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    }
+]

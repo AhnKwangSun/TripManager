@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_notification.xml",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\menu\\menu_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_group_follower.xml",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\menu\\menu_group_follower.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_group.xml",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\menu\\menu_group.xml"
+    }
+]

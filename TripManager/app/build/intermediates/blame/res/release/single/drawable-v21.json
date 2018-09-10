@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\mdtp_material_button_background.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\706eb4b8046139eefefcf219200fa73750774aef\\output\\res\\drawable-v21\\mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\ea3fcaa63fd237ad621a0bcadc070cac778afce6\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\ea3fcaa63fd237ad621a0bcadc070cac778afce6\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\ea3fcaa63fd237ad621a0bcadc070cac778afce6\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\ea3fcaa63fd237ad621a0bcadc070cac778afce6\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\mdtp_material_button_selected.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\706eb4b8046139eefefcf219200fa73750774aef\\output\\res\\drawable-v21\\mdtp_material_button_selected.xml"
+    }
+]

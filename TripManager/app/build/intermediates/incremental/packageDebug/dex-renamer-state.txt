@@ -1,0 +1,7 @@
+#Sun Nov 26 15:36:22 KST 2017
+base.0=C\:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a777df43a5629647b1a1b250dc6976080a87ff55
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f7c740b33ed56bd7bcb6462fd1007a5b412f4c99\\classes.dex
+base.1=C\:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f7c740b33ed56bd7bcb6462fd1007a5b412f4c99
+file.0=C\:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a777df43a5629647b1a1b250dc6976080a87ff55\\classes.dex

@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_member.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\bg_member.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\layout_dialog.xml",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\layout_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_map_inactive.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_map_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\account.png",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\358417807e10c29c1958b3a986431b54f5c1a1ae\\output\\res\\drawable\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\fab_join.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\fab_join.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_marker_in.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_marker_in.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_edit_active.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_edit_active.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\kakao_editable_profile.png",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\8569c466cab3849ffb94aeabb6583f3bc3ba1c49\\output\\res\\drawable\\kakao_editable_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_group_create.jpg",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_group_create.jpg"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\login.jpg",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\c1a93dba517105dc17071351ace1e88237df0089\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\layout_group.xml",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\layout_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_menu.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_notification_active.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_notification_active.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\kakao_login_bar.png",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\8569c466cab3849ffb94aeabb6583f3bc3ba1c49\\output\\res\\drawable\\kakao_login_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_address_active.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_address_active.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\ea3fcaa63fd237ad621a0bcadc070cac778afce6\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_edit_inactive.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_edit_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_marker.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_marker.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mdtp_done_background_color_dark.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\706eb4b8046139eefefcf219200fa73750774aef\\output\\res\\drawable\\mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\kakao_profile_boxbg.9.png",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\8569c466cab3849ffb94aeabb6583f3bc3ba1c49\\output\\res\\drawable\\kakao_profile_boxbg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_schedule_active.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_schedule_active.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\kakao_login_button_background.9.png",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\8569c466cab3849ffb94aeabb6583f3bc3ba1c49\\output\\res\\drawable\\kakao_login_button_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\c1a93dba517105dc17071351ace1e88237df0089\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\ea3fcaa63fd237ad621a0bcadc070cac778afce6\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\kakao_account_logo.png",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\8569c466cab3849ffb94aeabb6583f3bc3ba1c49\\output\\res\\drawable\\kakao_account_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\c1a93dba517105dc17071351ace1e88237df0089\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\c1a93dba517105dc17071351ace1e88237df0089\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_default_profile.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_default_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\talk.png",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\358417807e10c29c1958b3a986431b54f5c1a1ae\\output\\res\\drawable\\talk.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\kakao_login_symbol.png",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\8569c466cab3849ffb94aeabb6583f3bc3ba1c49\\output\\res\\drawable\\kakao_login_symbol.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\c1a93dba517105dc17071351ace1e88237df0089\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_x.png",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\358417807e10c29c1958b3a986431b54f5c1a1ae\\output\\res\\drawable\\btn_x.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\circle_shape.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\144b5e846879a9902dbc40df68594f4e269055a1\\output\\res\\drawable\\circle_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\option.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\option.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\c1a93dba517105dc17071351ace1e88237df0089\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\login_2.jpg",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\login_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\kakao_account_button_background.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\8569c466cab3849ffb94aeabb6583f3bc3ba1c49\\output\\res\\drawable\\kakao_account_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\c1a93dba517105dc17071351ace1e88237df0089\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\c1a93dba517105dc17071351ace1e88237df0089\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_member.jpg",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\bg_member.jpg"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\ea3fcaa63fd237ad621a0bcadc070cac778afce6\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\c1a93dba517105dc17071351ace1e88237df0089\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_login_button.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\358417807e10c29c1958b3a986431b54f5c1a1ae\\output\\res\\drawable\\selector_login_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\story.png",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\358417807e10c29c1958b3a986431b54f5c1a1ae\\output\\res\\drawable\\story.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_notification_inactive.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_notification_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_loader.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_loader.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\layout_input_green.xml",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\layout_input_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\d_circle.png",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\144b5e846879a9902dbc40df68594f4e269055a1\\output\\res\\drawable\\d_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_option.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_option.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\layout_input_white.xml",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\layout_input_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\kakao_default_profile_image.png",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\8569c466cab3849ffb94aeabb6583f3bc3ba1c49\\output\\res\\drawable\\kakao_default_profile_image.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_default.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_default.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\c1a93dba517105dc17071351ace1e88237df0089\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_group.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_group.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\c1a93dba517105dc17071351ace1e88237df0089\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\c1a93dba517105dc17071351ace1e88237df0089\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\c1a93dba517105dc17071351ace1e88237df0089\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\fab_create.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\fab_create.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_map_active.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_map_active.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\kakao_cancel_button_background.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\8569c466cab3849ffb94aeabb6583f3bc3ba1c49\\output\\res\\drawable\\kakao_cancel_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_address_inactive.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_address_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_group_join.jpg",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_group_join.jpg"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\c1a93dba517105dc17071351ace1e88237df0089\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\menu.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\JSilver\\.android\\build-cache\\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_create.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_create.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_schedule_inactive.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_schedule_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_marker_out.png",
+        "source": "C:\\Users\\JSilver\\AndroidStudioProjects\\TripManager\\app\\src\\main\\res\\drawable\\icon_marker_out.png"
+    }
+]

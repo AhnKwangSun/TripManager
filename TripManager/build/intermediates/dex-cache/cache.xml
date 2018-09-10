@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="68d06162a4aa3189b8d0790e37c10a1120c6b6c7">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a777df43a5629647b1a1b250dc6976080a87ff55\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\032fec0018d009fc8a8f280215081906afb00ef9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\release\classes_2d105546907bc97b8ca1348279711c1687e68d61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\1783c03a30ff45a6f91f719d0194c2ac1dc39f27\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\classes_6f4f01685ccafb8ef7e9c35e45aa8a91cefa763b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\c1a93dba517105dc17071351ace1e88237df0089\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2d45b277afdf55bcfdc005c03c0c2f1733aaa1b0">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\release\classes_c7983b1cce4310d858555f6989244e862a329e46.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JSilver\.android\build-cache\decc0c3eb498b4ab14f08691e381f40b3bc477f1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5423d080755901cc399daa76490ee65820e75fb">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c1d2a76072e4f940bc5d7332c9e51d42be12493\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JSilver\.android\build-cache\032fec0018d009fc8a8f280215081906afb00ef9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d105546907bc97b8ca1348279711c1687e68d61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JSilver\.android\build-cache\c1a93dba517105dc17071351ace1e88237df0089\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2d45b277afdf55bcfdc005c03c0c2f1733aaa1b0">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7983b1cce4310d858555f6989244e862a329e46\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\6c44a6db38f2c8863bed53c977570596dc7daf3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="83bdc8d7ba952e835eb5e1a37c5ef2e465a9d948">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\classes_9683d4a76802acea7cdfadddd97f54dc93f76ad9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\50325e6c874bda72041eb7eecce1578d86a688f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\classes_f46b711c43af7cc8635f7ea5d6871445cc7240db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_d60e1a913c135332a54649b6dda5b79c232733fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\83a67cf1850beb95a9abf2446a48750b7fa656ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b8c5a1e1b9da516e55a29d7a678ec5a08e8b9a92">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\classes_69ed0b518573da92a617e048aff67a727b6c5a58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\be6dc75abce937a2ee7ae3d47b4f2fdca2ff0890\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\classes_2081f2dc93e476e5f9c86208c3149c7ca224fea2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\8f2d517804330c43c39cb385e079c445cc0c0f06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bed98ea7af8c5c4202820875e856dd3eb296e22d">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\release\classes_fefb54a401572ea051600f3d7b7089dfd76de6f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\706eb4b8046139eefefcf219200fa73750774aef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d949361b02bcc90c45e3aeb214cd5872ff76fc4a">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\classes_d4f51aeb747d17903a53c916b5716ad2dc5ef00c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JSilver\.android\build-cache\8f2d517804330c43c39cb385e079c445cc0c0f06\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bed98ea7af8c5c4202820875e856dd3eb296e22d">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fefb54a401572ea051600f3d7b7089dfd76de6f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JSilver\.android\build-cache\144b5e846879a9902dbc40df68594f4e269055a1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fd51b0cddaca3f937ae6d1dc88adcdc9de17ee94">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a600f190b0f3a5b4565f0d1814ad95b6475867e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\cd6426ba4c591100312aa4dd0d929986ed9d0e16\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\classes_987ab2f09ee055a0df53b6c44d64bc7791feac53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\97d64840060bcf4656f24006d628be6b89635dac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\classes_40d402d97223e4836f04c02a90d39a018c8b4ff1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\144b5e846879a9902dbc40df68594f4e269055a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fd51b0cddaca3f937ae6d1dc88adcdc9de17ee94">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\release\classes_0a600f190b0f3a5b4565f0d1814ad95b6475867e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\358417807e10c29c1958b3a986431b54f5c1a1ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d6b36595f40347d99f1bec69d6adac6f178cfb28">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\classes_26a79906ffb008a4b782fca25d16fd328337a7f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\403a7ccb9f6dec6c3691b69332df20d7c6bfa1ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\classes_fa2bbc0dab4b2c5155320a52789117147ebcac42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\8569c466cab3849ffb94aeabb6583f3bc3ba1c49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc1420ff6e3880c3f764f62328142078ae49005e">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\classes_97806d8b41a756804cd38fe04a267ad89e22d8e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f7c740b33ed56bd7bcb6462fd1007a5b412f4c99\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\socket.io-client\0.3.0\8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9\socket.io-client-0.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\socket.io-client-0.3.0_64a76e3c998e833346b05f6ecf1ca6a47e44c9a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\0738b6b30527fa928eae79f36d2be95501875ea9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8040d53ecd4bd895360eafdc25e1c1cc9479e6aa">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\release\classes_4f048e98929f6fb290fdd6c410b456b37d438c69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\ff9de4780e740dd6c2c12bf91dce0e37b7196ec3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\classes_d9adb58adde54e9177c253ed335123d1d85aadc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\214f99f65fa9b241eadf68095472e0afefb8e2bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5f519b8c692038a47ee404b6ea6b847f6402000c">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\release\classes_bcda361f7ec8ad9f1b4193b3295e9bacfc0a29e4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JSilver\.android\build-cache\0738b6b30527fa928eae79f36d2be95501875ea9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8040d53ecd4bd895360eafdc25e1c1cc9479e6aa">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f048e98929f6fb290fdd6c410b456b37d438c69\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\718bd73e25063aa50c2ca6912fc830e3e719b3a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\classes_aff39b792569d91da52819eb38a624ef5f1a8702.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\3b07a5b3c6b025b047abc8f44afbcd4d659719ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2f552156e824f318819b664ab932f61d12cfa2f4">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\release\classes_ed8089e04d5bb26e2814354c3121980441706328.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JSilver\.android\build-cache\3b07a5b3c6b025b047abc8f44afbcd4d659719ac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2f552156e824f318819b664ab932f61d12cfa2f4">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed8089e04d5bb26e2814354c3121980441706328\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JSilver\.android\build-cache\214f99f65fa9b241eadf68095472e0afefb8e2bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5f519b8c692038a47ee404b6ea6b847f6402000c">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bcda361f7ec8ad9f1b4193b3295e9bacfc0a29e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\c6a577f03aab459a7843349d1b9891218327bc67\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6555c483abcdcc71ef5f1d47bb1ff3fee35ef1b2">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\release\classes_21b9053ceb6bb51b11f8bbcd35430df7f23809b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\74fe23b87adc9327522c08251aa7dd59f2638dd7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1f08eb8e9085b2042c9debcca8865b0d5ba44194">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\classes_9975dc2b32b37b92c9e77568ce00c1f58ab37902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\cab56b9a5d34e8a9de097e3065cae62cfc056950\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\classes_163cab6699c6ce90b3819951aa9bd2655b9d8b16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\33d91b418e447676711993195b24fae498f0ab20\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3504ecac25447777d11c7c81e9e2e69a4c8e3faa">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\classes_e7592ae4fa3bc06ec46c3da12e10ef3c462efa24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\563fe1b4dc5283125fb57c2d381bffffbeeb36cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6e6b94b72d7912a627fb1629c310b2bca9261f06">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\release\classes_f93cc3ad9156372cb0852976d8e3e2c1bfc59b6b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JSilver\.android\build-cache\563fe1b4dc5283125fb57c2d381bffffbeeb36cf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6e6b94b72d7912a627fb1629c310b2bca9261f06">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f93cc3ad9156372cb0852976d8e3e2c1bfc59b6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\decc0c3eb498b4ab14f08691e381f40b3bc477f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5423d080755901cc399daa76490ee65820e75fb">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\release\classes_9c1d2a76072e4f940bc5d7332c9e51d42be12493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\4a9802899c75a7861084c32de50916b2ba305f5e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="20d6aa9a18ea9833cd2bee95dff7cd303cdb80e4">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\release\classes_58178e092831a1dbfbd45247436a73449df4eb6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.gradle\caches\modules-2\files-2.1\org.java-websocket\Java-WebSocket\1.3.0\db2658f013fb163de4a99274c2eb9e17efe535d2\Java-WebSocket-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\Java-WebSocket-1.3.0_ae3853a4415ff5133f8bf9026092ad98f445f0d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.android\build-cache\4013443c3960de70afbe2d6eaceb7342cab8cb4c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\classes_0fec7bc6ae87c3a59f43e12138310c08c58a6658.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JSilver\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\engine.io-client\0.3.1\3ca9d0d53a27ecb88538ed874be417cfa827db5d\engine.io-client-0.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3ca9d0d53a27ecb88538ed874be417cfa827db5d">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\pre-dexed\debug\engine.io-client-0.3.1_da8ccfcd13274387b7f5aea0f6f93281e753c0c3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JSilver\.android\build-cache\c6a577f03aab459a7843349d1b9891218327bc67\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6555c483abcdcc71ef5f1d47bb1ff3fee35ef1b2">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21b9053ceb6bb51b11f8bbcd35430df7f23809b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JSilver\.android\build-cache\4a9802899c75a7861084c32de50916b2ba305f5e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="20d6aa9a18ea9833cd2bee95dff7cd303cdb80e4">
+        <dex dex="C:\Users\JSilver\AndroidStudioProjects\TripManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_58178e092831a1dbfbd45247436a73449df4eb6e\classes.dex" />
+    </item>
+
+</items>

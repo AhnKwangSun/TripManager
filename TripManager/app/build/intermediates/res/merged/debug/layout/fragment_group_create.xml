@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="10dip"
+            android:layout_weight="7"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/layout_picture"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dip"
+                android:layout_marginRight="10dip"
+                android:orientation="vertical">
+
+                <com.mikhaellopez.circularimageview.CircularImageView
+                    android:id="@+id/img_picture"
+                    android:layout_width="80dip"
+                    android:layout_height="80dip"
+                    android:src="@drawable/icon_default" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@null"
+                    android:gravity="center"
+                    android:text="Change"
+                    android:textAllCaps="true"
+                    android:textColor="@color/colorDarkGreen" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dip"
+                android:layout_marginLeft="10dip"
+                android:layout_marginRight="10dip"
+                android:background="@drawable/layout_input_green"
+                android:gravity="center">
+
+                <EditText
+                    android:id="@+id/edit_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dip"
+                    android:background="@null"
+                    android:hint="Trip Name"
+                    android:maxLength="60"
+                    android:paddingLeft="10dip"
+                    android:paddingRight="10dip"
+                    android:textColorHint="@color/colorLightGrayGreen"
+                    android:textCursorDrawable="@null" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_weight="3"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="45dip"
+                android:layout_marginLeft="10dip"
+                android:layout_marginRight="10dip"
+                android:background="@drawable/layout_input_green"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dip"
+                    android:layout_weight="3"
+                    android:gravity="center|left"
+                    android:paddingLeft="10dip"
+                    android:text="START DATE"
+                    android:textColorHint="@color/colorDarkGreen"
+                    android:textSize="18dip" />
+
+                <TextView
+                    android:id="@+id/txt_start_date"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dip"
+                    android:layout_weight="2"
+                    android:gravity="center|right"
+                    android:hint="SELECT"
+                    android:maxLength="10"
+                    android:paddingRight="10dip"
+                    android:textColor="@color/colorDarkGray"
+                    android:textColorHint="@color/colorLightGrayGreen"
+                    android:textSize="18dip" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="45dip"
+                android:layout_marginLeft="10dip"
+                android:layout_marginRight="10dip"
+                android:layout_marginTop="10dip"
+                android:background="@drawable/layout_input_green"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dip"
+                    android:layout_weight="3"
+                    android:gravity="center|left"
+                    android:paddingLeft="10dip"
+                    android:text="END DATE"
+                    android:textColorHint="@color/colorDarkGreen"
+                    android:textSize="18dip" />
+
+                <TextView
+                    android:id="@+id/txt_end_date"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dip"
+                    android:layout_weight="2"
+                    android:gravity="center|right"
+                    android:hint="SELECT"
+                    android:maxLength="10"
+                    android:paddingRight="10dip"
+                    android:textColor="@color/colorDarkGray"
+                    android:textColorHint="@color/colorLightGrayGreen"
+                    android:textSize="18dip" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="45dip"
+                android:layout_marginLeft="10dip"
+                android:layout_marginRight="10dip"
+                android:layout_marginTop="10dip"
+                android:background="@drawable/layout_input_green"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dip"
+                    android:layout_weight="3"
+                    android:gravity="center|left"
+                    android:paddingLeft="10dip"
+                    android:text="PASSWORD"
+                    android:textColorHint="@color/colorDarkGreen"
+                    android:textSize="18dip" />
+
+                <EditText
+                    android:id="@+id/edit_password"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dip"
+                    android:layout_weight="2"
+                    android:background="@null"
+                    android:gravity="center|right"
+                    android:hint="********"
+                    android:inputType="textPassword"
+                    android:maxLength="30"
+                    android:paddingRight="10dip"
+                    android:textColor="@color/colorDarkGreen"
+                    android:textColorHint="@color/colorLightGrayGreen"
+                    android:textCursorDrawable="@null"
+                    android:textSize="18dip" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dip"
+        android:layout_weight="10"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btn_create"
+            android:layout_width="match_parent"
+            android:layout_height="40dip"
+            android:layout_margin="10dip"
+            android:background="@color/colorGreen"
+            android:text="CREATE TRIP"
+            android:textColor="@color/colorWhite" />
+
+    </LinearLayout>
+</LinearLayout>

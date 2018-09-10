@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">여행 매니저 - TripManager</string>
+
+    <string name="version">1.0.5</string>
+
+    <string name="debug_key_hash">+xG2Q8UvUJxrUwNkYg0ymSUU6tU=</string>
+    <string name="release_key_hash">sA9cwKTnN5GLmTxIVh9nDEEMv/4=</string>
+</resources>
